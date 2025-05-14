@@ -1,0 +1,103 @@
+﻿  modbs.cpp
+C:\Users\User\Desktop\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: class "std::runtime_error", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "sf::Exception"
+  (компиляция исходного файла "modbs.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+       см. объявление "std::runtime_error"
+      C:\Users\User\Desktop\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+       см. объявление "sf::Exception"
+  
+C:\Users\User\Desktop\modbs\modbs\ini.h(26,17): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "modbs.cpp")
+  
+C:\Users\User\Desktop\modbs\modbs\ini.h(45,88): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+  (компиляция исходного файла "modbs.cpp")
+  
+C:\Users\User\Desktop\modbs\modbs\ini.h(45,88): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "modbs.cpp")
+  
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(319,21): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244:         ]
+  Создание кода
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 342 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  modbs.vcxproj -> C:\Users\User\Desktop\modbs\Release\modbs.exe

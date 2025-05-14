@@ -1,0 +1,2 @@
+﻿  modbs.cpp
+LINK : fatal error LNK1104: не удается открыть файл "sfml-graphics.lib\,.obj"

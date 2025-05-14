@@ -1,0 +1,140 @@
+﻿  modbs.cpp
+C:\Users\User\Desktop\SFML-3.0.0\include\SFML\System\Exception.hpp(41,47): warning C4275: class "std::runtime_error", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "sf::Exception"
+  (компиляция исходного файла "modbs.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+       см. объявление "std::runtime_error"
+      C:\Users\User\Desktop\SFML-3.0.0\include\SFML\System\Exception.hpp(41,23):
+       см. объявление "sf::Exception"
+  
+C:\Users\User\Desktop\modbs\modbs\modbus.h(641,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "modbs.cpp")
+  
+C:\Users\User\Desktop\modbs\modbs\ini.h(26,17): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "modbs.cpp")
+  
+C:\Users\User\Desktop\modbs\modbs\ini.h(45,88): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+  (компиляция исходного файла "modbs.cpp")
+  
+C:\Users\User\Desktop\modbs\modbs\ini.h(45,88): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "modbs.cpp")
+  
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,43): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(177,36): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,46): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(178,40): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,40): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(188,28): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(319,21): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,49): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(465,43): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,77): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(473,54): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,77): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(477,54): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,78): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(481,54): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,78): warning C4244:         ]
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244:         with
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244:         [
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244:             T=float
+C:\Users\User\Desktop\modbs\modbs\modbs.cpp(485,54): warning C4244:         ]
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float>)" (__imp_?setPosition@Transformable@sf@@QEAAXV?$Vector2@M@2@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color)" (__imp_?setFillColor@Shape@sf@@QEAAXVColor@2@@Z) в функции "public: class sf::RectangleShape __cdecl Buttom::init(int,int,int,int,int,int,int,int)" (?init@Buttom@@QEAA?AVRectangleShape@sf@@HHHHHHHH@Z).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineColor(class sf::Color)" (__imp_?setOutlineColor@Shape@sf@@QEAAXVColor@2@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Shape::setOutlineThickness(float)" (__imp_?setOutlineThickness@Shape@sf@@QEAAXM@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Font::Font(class std::filesystem::path const &)" (__imp_??0Font@sf@@QEAA@AEBVpath@filesystem@std@@@Z) в функции "void __cdecl `dynamic initializer for 'font''(void)" (??__Efont@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Font::~Font(void)" (__imp_??1Font@sf@@QEAA@XZ) в функции "void __cdecl `dynamic atexit destructor for 'font''(void)" (??__Ffont@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::RectangleShape::RectangleShape(class sf::Vector2<float>)" (__imp_??0RectangleShape@sf@@QEAA@V?$Vector2@M@1@@Z) в функции "public: __cdecl Buttom::Buttom(void)" (??0Buttom@@QEAA@XZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RectangleShape::setSize(class sf::Vector2<float>)" (__imp_?setSize@RectangleShape@sf@@QEAAXV?$Vector2@M@2@@Z) в функции "public: class sf::RectangleShape __cdecl Buttom::init(int,int,int,int,int,int,int,int)" (?init@Buttom@@QEAA?AVRectangleShape@sf@@HHHHHHHH@Z).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::RectangleShape::~RectangleShape(void)" (__imp_??1RectangleShape@sf@@UEAA@XZ) в функции "public: __cdecl Buttom::~Buttom(void)" (??1Buttom@@QEAA@XZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::RectangleShape & __cdecl sf::RectangleShape::operator=(class sf::RectangleShape &&)" (__imp_??4RectangleShape@sf@@QEAAAEAV01@$$QEAV01@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color)" (__imp_?clear@RenderTarget@sf@@QEAAXVColor@2@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,struct sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBURenderStates@2@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(class sf::Vector2<unsigned int>,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@V?$Vector2@I@1@I@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: bool __cdecl sf::WindowBase::isOpen(void)const " (__imp_?isOpen@WindowBase@sf@@QEBA_NXZ) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class std::optional<class sf::Event> __cdecl sf::WindowBase::pollEvent(void)" (__imp_?pollEvent@WindowBase@sf@@QEAA?AV?$optional@VEvent@sf@@@std@@XZ) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::WindowBase::setKeyRepeatEnabled(bool)" (__imp_?setKeyRepeatEnabled@WindowBase@sf@@QEAAX_N@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::String(void)" (__imp_??0String@sf@@QEAA@XZ) в функции "class sf::Text __cdecl label_create(int,bool,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?label_create@@YA?AVText@sf@@H_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) class sf::Vector2<int> __cdecl sf::Mouse::getPosition(class sf::WindowBase const &)" (__imp_?getPosition@Mouse@sf@@YA?AV?$Vector2@H@2@AEBVWindowBase@2@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@UEAAXXZ) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::setFramerateLimit(unsigned int)" (__imp_?setFramerateLimit@Window@sf@@QEAAXI@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,enum sf::State,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IW4State@1@AEBUContextSettings@1@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual bool __cdecl sf::RenderWindow::setActive(bool)" (__imp_?setActive@RenderWindow@sf@@UEAA_N_N@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: __cdecl sf::Text::Text(class sf::Font const &,class sf::String,unsigned int)" (__imp_??0Text@sf@@QEAA@AEBVFont@1@VString@1@I@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color)" (__imp_?setFillColor@Text@sf@@QEAAXVColor@2@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: class sf::Text & __cdecl sf::Text::operator=(class sf::Text &&)" (__imp_??4Text@sf@@QEAAAEAV01@$$QEAV01@@Z) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+modbs.obj : error LNK2019: ссылка на неразрешенный внешний символ "__declspec(dllimport) public: static struct sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2U12@B) в функции "void __cdecl first_thrand(void)" (?first_thrand@@YAXXZ).
+C:\Users\User\Desktop\SFML-3.0.0\lib\sfml-graphics.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\Desktop\SFML-3.0.0\lib\sfml-window.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\Desktop\SFML-3.0.0\lib\sfml-system.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\Desktop\SFML-3.0.0\lib\sfml-audio.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\Desktop\SFML-3.0.0\lib\sfml-network.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\Desktop\modbs\x64\Debug\modbs.exe : fatal error LNK1120: неразрешенных внешних элементов: 33
